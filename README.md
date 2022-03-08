@@ -37,4 +37,11 @@ Input `npm run reset:db` to reset Postgres database
 - cookie-session v2.0.0
 
 ## Screenshots
+**Directory Page** Users could sign up, sign in, visit the home page(Explore The Community), visit the page to make a new post(Contribute To The Community).
+![](https://raw.githubusercontent.com/daniel-cy-lu/community/master/screenshots/1.%20Screen%20Shot%20.png)
 
+**Sign-Up Page** Users could sign up with proper user information such as first and last name, e-mail address, username and password.
+![](https://raw.githubusercontent.com/daniel-cy-lu/community/master/screenshots/2.%20Screen%20Shot%20.png)
+
+**Sign-In Page** Users could sign in with proper user e-mail address and password.
+![](https://github.com/daniel-cy-lu/community/blob/master/screenshots/3.%20Screen%20Shot%20.png)
