@@ -1,6 +1,6 @@
 # COMMUNITY
 
-Community is the platform for consumers to help one another. Together, we can help increase transparency and quality of services provided by businesses all around the world.
+Community is a platform for users to share prices and experience from a service they've received. Together, we can help increase transparency and quality of services provided by businesses all around the world.
 
 GIVE POWER BACK TO CONSUMERS FROM BUSINESSES
 
@@ -11,6 +11,16 @@ GIVE POWER BACK TO CONSUMERS FROM BUSINESSES
 - Daniel Lu
 
 ## Getting Started
+
+After cloning the repository, individually, input `npm install` in the *client* and *server* directory.
+
+## Running Server and API
+
+From within the client and server directory, input `npm start` to start service.
+
+## Reset Database
+
+Input `npm run reset:db` to reset Postgres database
 
 ## Tech Stack
 
@@ -25,3 +35,6 @@ GIVE POWER BACK TO CONSUMERS FROM BUSINESSES
 - PostgreSQL
 - date-fns
 - cookie-session v2.0.0
+
+## Screenshots
+
