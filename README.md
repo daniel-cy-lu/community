@@ -61,12 +61,6 @@ Input `npm run reset:db` to reset Postgres database
 **Making A New Post** Users could create a new post with proper information, incluing name and address of business, date of visit, best matched category, money spent, review of the experience and two rating system.
 ![](https://raw.githubusercontent.com/daniel-cy-lu/community/master/screenshots/08.%20Screen%20Shot.png)
 
-**Making A New Post** Page zoomed in (1)
-![](https://raw.githubusercontent.com/daniel-cy-lu/community/master/screenshots/09.%20Screen%20Shot.png)
-
-**Making A New Post** Page zoomed in (2)
-![](https://raw.githubusercontent.com/daniel-cy-lu/community/master/screenshots/10.%20Screen%20Shot.png)
-
 **Recent Tab** User could view the most recent posts in the recent tab. The post that was created shows up on the top.
 ![](https://raw.githubusercontent.com/daniel-cy-lu/community/master/screenshots/11%20.Screen%20Shot.png)
 
